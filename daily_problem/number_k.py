@@ -1,5 +1,4 @@
 numbers = [10,15,3,7]
-first_element = numbers[0]
 results = []
 
 def add_up(k):
@@ -11,7 +10,6 @@ def add_up(k):
         print(True)
     else:
         print(False)
-
 
 add_up(18)
 
